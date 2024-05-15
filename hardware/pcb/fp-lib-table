@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Signature")(type "KiCad")(uri "${KIPRJMOD}/Signature.pretty")(options "")(descr ""))
+  (lib (name "Direction")(type "KiCad")(uri "${KIPRJMOD}/Direction.pretty")(options "")(descr ""))
+)
