@@ -1,0 +1,7 @@
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/picotool
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/picotoolTargets.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/picotoolTargets-release.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/picotoolConfig.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/enc_bootloader.elf
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool/enc_bootloader_mbedtls.elf

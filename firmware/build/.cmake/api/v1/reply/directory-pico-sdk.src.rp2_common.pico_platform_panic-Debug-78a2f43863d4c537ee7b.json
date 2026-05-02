@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2_common/pico_platform_panic",
+		"source" : "/home/noobinventor/pico-sdk/src/rp2_common/pico_platform_panic"
+	}
+}

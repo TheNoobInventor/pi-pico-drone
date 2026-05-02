@@ -1,0 +1,7 @@
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/pioasm.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/edit_cache.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/list_install_components.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/install.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/install/local.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm/CMakeFiles/install/strip.dir

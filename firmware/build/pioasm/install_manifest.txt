@@ -1,0 +1,5 @@
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm-install/pioasm/pioasm
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

@@ -1,0 +1,13 @@
+# Target labels
+ enc_bootloader_mbedtls
+# Source files and their labels
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/CMakeFiles/enc_bootloader_mbedtls
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/CMakeFiles/enc_bootloader_mbedtls.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/CMakeFiles/enc_bootloader_mbedtls-complete.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-build.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-configure.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-download.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-install.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-mkdir.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-patch.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-update.rule

@@ -1,0 +1,2 @@
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

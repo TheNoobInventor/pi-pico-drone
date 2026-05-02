@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/CMakeFiles/picotoolBuild
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/CMakeFiles/picotoolBuild.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/CMakeFiles/picotoolBuild-complete.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/noobinventor/Documents/Projects/pi-pico-drone/firmware/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

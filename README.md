@@ -11,8 +11,8 @@ The following components were used in this project:
 | Part | Quantity |
 | :-- | :-- |
 | Raspberry Pi Pico W | 1 |
-| MPU6050 module| 1 |
-| BMP280 module| 1 |
+| MPU6050 module | 1 |
+| BMP280 module | 1 |
 | 1S 500mAh Lipo Battery| 1 |
 | 1020 Coreless Motor | 4 |
 | 66mm propeller (2 pairs of CW and 2 pairs of CCW) | 4  |
@@ -24,8 +24,9 @@ The following components were used in this project:
 | 1k ohm resistor | 1 |
 | 10k ohm resistor | 4 |
 | Female Pin headers | 40 |
-| Push Button| 1 |
+| Push Button | 1 |
 | LEDs | 3 |
+| 1S Lipo charger | 1 |
 
 *CW - Clockwise and CCW - Counter clockwise*
 
